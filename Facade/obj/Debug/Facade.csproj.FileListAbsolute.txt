@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Facade\obj\Debug\Facade.pdb

@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

@@ -1,0 +1,31 @@
+Padrões Estruturais:
+
+Adapter: Classe para adaptar outra a uma necessidade especifica tornando compativel a um contexto
+Bridge: Injeta a classe responsavel pela implementacao dos metodos
+Composite: arvore
+Decorator: Anexa responsabilidades adicionais a um objeto dinâmicamente como forma de extenção
+Facede: Agrupa chamadas a metodos de varias classes em um unico na classe de facade
+Flyweigh: Cria um dicionario interno para selecionar a classe q sera utilizada baseado na chave informada
+Proxy: Encapsula a utilizacao de uma classe especifica
+
+
+# Adapter
+Converte a interface de uma classe em outra, esperada pelo cliente. O Adapter permite que classes que antes não poderiam trabalhar juntas, por incompatibilidade de interfaces, possam agora fazê-lo.
+
+# Bridge
+Separa uma abstração de sua implementação, de modo que ambas possam variar independentemente.
+
+# Composite
+Compõe objetos em árvores de agregação (relacionamento parte-todo). O Composite permite que objetos agregados sejam tratados como um único objeto.
+
+# Decorator
+Anexa responsabilidades adicionais a um objeto dinâmicamente. Provê uma alternativa flexível para extensão de funcionalidade, sem ter que usar Herança.
+
+# Façade
+Provê uma interface unificada para um conjunto de interfaces em um subsistema. O Facade define uma interface alto nível para facilitar o uso deste subsistema.
+
+# Flyweight
+Usa o compartilamento para dar suporte eficiente a um grande número de objetos com alto nível de granularidade.
+
+# Proxy
+Provê Design para um controlador de acesso a um objeto.

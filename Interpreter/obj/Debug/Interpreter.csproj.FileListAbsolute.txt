@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Interpreter\obj\Debug\Interpreter.pdb

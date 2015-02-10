@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Iterator\bin\Debug\Iterator.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Iterator\obj\Debug\Iterator.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Iterator\obj\Debug\Iterator.pdb

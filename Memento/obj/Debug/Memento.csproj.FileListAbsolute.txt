@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Memento\bin\Debug\Memento.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Memento\bin\Debug\Memento.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Memento\obj\Debug\Memento.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Memento\obj\Debug\Memento.pdb

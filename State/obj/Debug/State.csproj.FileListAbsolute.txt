@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\State\bin\Debug\State.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\State\bin\Debug\State.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\State\bin\Debug\State.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\State\obj\Debug\State.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\State\obj\Debug\State.pdb

@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Bridge\obj\Debug\Bridge.pdb

@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Flyweight\obj\Debug\Flyweight.pdb

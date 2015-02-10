@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Observer\obj\Debug\Observer.pdb

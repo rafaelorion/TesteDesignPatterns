@@ -1,0 +1,20 @@
+Padrões Criacionais:
+
+Abstract Factory: Passa uma fabrica por parametro a um objeto para constrir suas subclasses
+Builder: Utiliza o metodo de uma classe para setar um objeto por referencia
+Factory Method: Constroi objetos a partir de em metodo em uma fabrica
+Prototype: cria clones de uma classe baseados em um prototipo
+Singleton: Assegura que uma classe tenha apenas uma instância e provê um ponto global de acesso a ela.
+
+
+Abstract Factory
+	Provê uma interface para criação de famílias de objetos relacionados ou interdependentes. Remove a dependência entre o cliente, que usa os objetos, e a classe dos objetos produzidos, através de uma única interface e sem que a classe concreta seja especificada.
+Builder
+	Provê uma interface genérica para a construção incremental de agregações. Um Builder esconde os detalhes de como os componentes são criados, representados e compostos.A diferença entre o Builder e o Abstract Factory é que ele constrói objetos complexos passo a passo e o Abstract Factory constrói famílias de objetos, simples ou complexos, de uma só vez.
+Factory Method
+	Define uma interface para criação de um objeto, permitindo que as suas subclasses decidam qual classe instanciar. O Factory Method deixa a responsabilidade de instanciação para as subclasses.
+Prototype
+	Especifica os tipos de objetos a serem criados num sistema, usando uma instância protótipo. Cria novos objetos copiando de um modelo original, ou protótipo.
+Singleton
+	Assegura que uma classe tenha apenas uma instância e provê um ponto global de acesso a ela.
+

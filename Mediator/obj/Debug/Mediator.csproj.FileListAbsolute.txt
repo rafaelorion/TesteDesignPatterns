@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Mediator\obj\Debug\Mediator.pdb

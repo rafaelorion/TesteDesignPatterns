@@ -1,0 +1,5 @@
+2015/02/10-15:16:50.655 cdc Recovering log #6
+2015/02/10-15:16:50.729 cdc Level-0 table #8: started
+2015/02/10-15:16:51.004 cdc Level-0 table #8: 54128 bytes OK
+2015/02/10-15:16:51.192 cdc Delete type=0 #6
+2015/02/10-15:16:51.194 cdc Delete type=3 #4

@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="409320A1-7BF9-44CB-BE14-6A5D63EF15CC" ModuleId="Singleton" />
+  <Module PersistentId="D71D0FFA-6191-4F8A-8936-537F5FC44AF1" ModuleId="AbstractFactory" />
+  <Module PersistentId="A1B8CA39-490E-4AC9-A35D-23872DCF6EC2" ModuleId="Builder" />
+  <Module PersistentId="96E8CF07-C533-413E-B30A-DA47679C5D59" ModuleId="FactoryMethod" />
+  <Module PersistentId="88A6B86C-BBFE-4B9B-9707-A7D7CFC1029A" ModuleId="Prototype" />
+</Modules>

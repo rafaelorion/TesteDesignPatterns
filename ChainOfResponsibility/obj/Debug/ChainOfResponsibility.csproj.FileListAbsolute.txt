@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb

@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

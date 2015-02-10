@@ -1,0 +1,5 @@
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\Orion\Desktop\TestesDesignPatterns\TestesDesignPatterns\Prototype\obj\Debug\Prototype.pdb
